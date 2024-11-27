@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+pl24147686.profitablecpmrate.com	TRUE	/	FALSE	1999999999	4b4e7ab587d59b22ad7bcd2439afc363_CF-3278	1
+pl24147686.profitablecpmrate.com	TRUE	/	FALSE	1999999999	SameSite	None
+pl24147551.profitablecpmrate.com	TRUE	/	FALSE	1999999999	4b4e7ab587d59b22ad7bcd2439afc363_BS-150-25	0
+pl24147551.profitablecpmrate.com	TRUE	/	FALSE	1999999999	SameSite	None
+
